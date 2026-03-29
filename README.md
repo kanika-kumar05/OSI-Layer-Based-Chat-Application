@@ -13,7 +13,7 @@ Detailed technical documentation, architecture, and workflow diagrams can be fou
 👉 **[PROJECT_DETAILS.md](file:///c:/Users/kanik/Desktop/projects/cn%20project/PROJECT_DETAILS.md)**
 
 ## 📊 Flowchart
-![Multi-Layer Filtering System Flowchart](_- visual selection.png)
+![Multi-Layer Filtering System Flowchart](flowchart.png)
 
 ## 🛡️ Features
 - **OSI Simulation**: Full L1-L7 stack.

@@ -87,7 +87,7 @@ The **Rabin-Karp** algorithm is a string-searching algorithm that uses hashing.
 7. **L7**: Delivers the final payload to the target application.
 
 ### Visual Flowchart Diagram
-![OSI Filter System Flowchart](_- visual selection.png)
+![OSI Filter System Flowchart](flowchart.png)
 
 ### Logical Flow Representation (Mermaid)
 
